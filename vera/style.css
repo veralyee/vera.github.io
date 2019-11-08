@@ -1,0 +1,44 @@
+.jumbotron {
+  background-image: url('img/investasi.jpg');
+  background-size: cover;
+  height: 750px;
+}
+
+.jumbotron .display-4 {
+  margin-top: 40px;
+  margin-left: 200px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.jumbotron hr {
+  margin left: 40px;
+  width: 880px
+}
+
+.jumbotron .lead {
+  margin-left: 200px;
+  font-size: 20px;
+}
+
+.jumbotron .btn {
+  margin-left: 200px;
+}
+
+.card {
+  width: 30rem;
+  height: 25rem;
+  margin-top: -90px;
+  margin-left: 150px;
+  font-size: 30px;
+}
+
+hr {
+  width: 100px;
+  border-top : 3px solid #eaeaea;
+}
+
+.col-md-6 {
+  font-size: 30px;
+}
+
